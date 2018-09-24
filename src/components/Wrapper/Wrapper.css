@@ -1,0 +1,9 @@
+.wrapper {
+  background: url('http://igg-games.com/wp-content/uploads/2016/02/Street-Fighter-V-Free-Download.jpg') no-repeat center center fixed;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+}
